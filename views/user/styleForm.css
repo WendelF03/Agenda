@@ -1,0 +1,134 @@
+.back img{
+   position: absolute;
+   height:850px;
+   width: 1550px; 
+   top: 0;
+   left: 0;
+   right: 0;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.inicio form{
+    position: absolute;
+    left: 530px;
+    top: 250px;
+    opacity: 0.8;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    z-index: 1;
+    background-color: 	#E6E6FA;
+}
+
+.inicio p{
+    color: black;
+    top: 60px;
+    left: 58px;
+    position: absolute;
+    z-index: 2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.inicio #login{
+    position: relative;
+    z-index: 3;
+    top: 150px;
+    left: 40px;
+    height: 30px;
+    width: 125px;
+    border-radius: 15px;
+    background-color: #DDA0DD;
+    border: none;
+}
+
+.inicio #cadastro{
+    position: relative;
+    z-index: 4;
+    top: 150px;
+    left: 60px;
+    height: 30px;
+    width: 125px;
+    border-radius: 15px;
+    background-color: #DDA0DD;
+    border: none;
+}
+
+#cadastrar{
+    z-index: 5;
+position: relative;
+top: 130px;
+left: 109px;
+height: 30px;
+width: 125px;
+border-radius: 15px;
+background-color: #DDA0DD;
+border: none;
+}
+
+.inicio #link{
+    z-index: 6;
+    position: relative;
+    top: 150px;
+    left: 130px;
+}
+
+#email{
+    z-index: 7;
+    position: relative;
+    top: 120px;
+    left: 45px;
+    border-radius: 15px;
+    border: none;
+}
+
+#lb1{
+    z-index: 8;
+    position: relative;
+    top: 120px;
+    left: 40px;
+}
+
+#senha{
+    z-index: 9;
+    position: relative;
+    top: 70px;
+    left:45px ;
+    border-radius: 15px;
+    border: none;
+}
+
+#lb2{
+    z-index: 10;
+    position: relative;
+    top: 70px;
+    left: 40px;
+}
+
+#entrar{
+    z-index: 11;
+    position: relative;
+top: 130px;
+left: 109px;
+height: 30px;
+width: 125px;
+border-radius: 15px;
+background-color: #DDA0DD;
+border: none;
+}
+
+.inicio #formAdd{
+    z-index: 12;
+    position: absolute;
+    left: 530px;
+    top: 250px;
+    opacity: 0.8;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    z-index: 1;
+    background-color:s
+}
