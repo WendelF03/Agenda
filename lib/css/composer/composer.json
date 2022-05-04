@@ -1,0 +1,17 @@
+{
+    "name": "wendel/calendar",
+    "description": "Calendário Agenda de Atividades.",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wendel Pedro",
+            "email": "wendelpedro.f@gmail.com"
+        }
+    ],
+    "require": {}
+}
